@@ -1,1 +1,1 @@
-Dette er et test repository
+gitrepositorytest
