@@ -1,5 +1,3 @@
-Git IS-105
-
-Dette er en test repository til bruk ved godkjenning.
-
-Eivind Hauge Halsnes
+Ehalsnes private reposity
+___________________________________________________
+This repository is targeting on projects related to courses in BACIT at University of Agder, aswell as private projects.
